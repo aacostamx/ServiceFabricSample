@@ -1,6 +1,7 @@
 # ServiceFabricSample
-MicroServices Using Service Fabric And .NET Core With CI/CD
------------------------------------------------------------
+
+MicroServices Using Service Fabric
+----------------------------------
 
 What is Service Fabric?
  
