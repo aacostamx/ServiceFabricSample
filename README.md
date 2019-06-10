@@ -12,11 +12,14 @@ What is Service Fabric?
 Links
 -----
 [Service Fabric Explorer](https://servicefabricsample.centralus.cloudapp.azure.com:19080/Explorer/)
+
 [Microservice](http://servicefabricsample.centralus.cloudapp.azure.com:8394/swagger/index.html)
 
 
 Tutorials
 ---------
 [Create an ASP.NET Web API service as a reliable service](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-tutorial-create-dotnet-app)
+
 [MicroServices Using Service Fabric And .NET Core With CI/CD](https://www.c-sharpcorner.com/article/microservices-ci-cd-with-service-fabric/)
+
 [Microservice using ASP.NET Core](https://www.codeproject.com/Articles/1276639/Microservice-using-ASP-NET-Core)
