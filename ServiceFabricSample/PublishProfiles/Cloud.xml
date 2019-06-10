@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PublishProfile xmlns="http://schemas.microsoft.com/2015/05/fabrictools">
+  <ClusterConnectionParameters ConnectionEndpoint="servicefabricsample.centralus.cloudapp.azure.com:19000" X509Credential="true" ServerCertThumbprint="E42758EA97E83C56E175F7F980E81A84DFD56A2E" FindType="FindByThumbprint" FindValue="E42758EA97E83C56E175F7F980E81A84DFD56A2E" StoreLocation="CurrentUser" StoreName="My" />
+  <ApplicationParameterFile Path="..\ApplicationParameters\Cloud.xml" />
+  <CopyPackageParameters CompressPackage="true" />
+</PublishProfile>
